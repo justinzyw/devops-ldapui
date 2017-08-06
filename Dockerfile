@@ -1,0 +1,1 @@
+from osixia/phpldapadmin:latest
